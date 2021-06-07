@@ -104,6 +104,11 @@
 
 .post-cta .post-cta-title {
     margin-top: 0;
+    font-size: 2em;
+}
+
+.post-cta .post-cta-subtitle {
+    color: var(--secondary-text-color);
 }
 
 .post-cta .post-cta-button {
